@@ -1,0 +1,101 @@
+id,name,priority,description
+0,Software License Activation,Low,User needs assistance activating their software license key.
+1,Printer Not Working,High,User reports that the office printer is not printing any documents.
+2,Software Installation Issue,Medium,User needs assistance installing Microsoft Office on their new computer.
+3,Network Connectivity Problem,High,User cannot connect to the company's Wi-Fi network from their laptop.
+4,Email Access Problem,Low,User is unable to access their email account through Outlook.
+5,Computer Startup Error,High,Computer shows a blue screen error upon startup and doesn't proceed further.
+6,Slow Performance Issue,Medium,User complains that their computer is running very slowly.
+7,Password Reset Request,Low,User needs to reset their password for logging into the company's network.
+8,Software Crashing,Medium,User reports that a specific software application keeps crashing unexpectedly.
+9,VPN Connection Issue,High,User encounters an error when trying to connect to the company's VPN.
+10,Peripheral Device Not Recognized,Low,Computer does not recognize the external hard drive connected to it.
+11,Printer Jam Issue,High,User's printer is jammed and cannot print any documents.
+12,Software License Renewal,Low,User needs assistance renewing the license for their antivirus software.
+13,Internet Browser Issue,Medium,User experiences frequent crashes while using the web browser.
+14,File Recovery Request,Low,User accidentally deleted an important file and needs help recovering it.
+15,Keyboard Malfunction,Medium,Several keys on the user's keyboard are not functioning properly.
+16,Printer Driver Installation,Low,User needs help installing the correct drivers for their new printer.
+17,Software Update Problem,Medium,User encounters an error while updating their operating system.
+18,Network Printer Setup,High,User needs assistance setting up a network printer for their team.
+19,Email Attachment Issue,Low,User is unable to download attachments from their email.
+20,Blue Screen Error,High,Computer displays a blue screen error intermittently during use.
+21,Application Not Responding,Medium,User's application becomes unresponsive frequently.
+22,VPN Configuration Issue,High,User's VPN configuration settings need to be updated.
+23,External Monitor Connection Issue,Low,User cannot connect their laptop to an external monitor.
+24,Printer Queue Management,Medium,User needs help managing the print queue on their printer.
+25,Software Compatibility Issue,Low,User's software is not compatible with the latest operating system update.
+26,Network Drive Mapping Issue,High,User cannot access a mapped network drive from their computer.
+27,Email Sync Problem,Low,User's emails are not syncing properly across their devices.
+28,Mouse Cursor Disappears,Medium,User's mouse cursor disappears randomly on their screen.
+29,Printer Toner Replacement,Low,User needs assistance replacing the toner cartridge in their printer. I modified this on the webapp
+30,Software Configuration Issue,Medium,User's software settings need to be configured for optimal performance.
+31,VPN Authentication Problem,High,User encounters an authentication error when connecting to VPN.
+32,External Hard Drive Data Recovery,Low,User's external hard drive data needs to be recovered after a crash.
+33,Network Printer Offline,High,User's network printer shows as offline and cannot print.
+34,Email Forwarding Setup,Low,User needs help setting up email forwarding rules in Outlook.
+35,Application Hangs on Startup,Medium,User's application freezes upon launching.
+36,VPN Client Installation,High,User needs assistance installing VPN client software on their computer.
+37,Printer Paper Jam,High,User's printer has a paper jam and cannot print.
+38,Software License Activation,Low,User needs assistance activating their software license key.
+39,Internet Connectivity Issue,High,User cannot connect to the internet from their office workstation.
+40,File Permission Issue,Medium,User does not have sufficient permissions to access a shared file.
+41,Keyboard Typing Incorrect Characters,Medium,User's keyboard types incorrect characters intermittently.
+42,Printer Network Configuration,High,User needs help configuring the printer on the office network.
+43,Software Uninstallation Problem,Medium,User encounters an error while uninstalling software from their computer.
+44,Network Security Configuration,High,User needs assistance configuring network security settings.
+45,Email Delivery Delay,Low,User's emails are experiencing delays in delivery.
+46,Blue Screen Error on Login,High,Computer shows a blue screen error when user attempts to log in.
+47,Application License Renewal,Low,User needs help renewing the license for a critical application.
+48,VPN Server Connection Issue,High,User cannot establish a connection to the VPN server.
+49,External Monitor Resolution Issue,Low,User's external monitor displays incorrect resolution settings.
+50,Printer Firmware Update,Low,User needs assistance updating the firmware on their printer.
+51,Software Performance Optimization,Medium,User's software performance needs to be optimized for better speed.
+52,Network Bandwidth Problem,High,User experiences slow network speeds despite high bandwidth availability.
+53,Email Account Setup,Low,User needs help setting up a new email account on their computer.
+54,Keyboard Replacement Request,Medium,User's keyboard is faulty and needs replacement.
+55,Printer Configuration Issue,High,User's printer configuration settings need adjustment.
+56,Software Patch Installation,Low,User needs help installing a critical software patch.
+57,Network Printer Driver Issue,High,User's computer does not recognize the network printer driver.
+58,Email Client Configuration,Low,User needs assistance configuring their email client software.
+59,Application Crash on Launch,Medium,User's application crashes every time it is launched.
+60,VPN Performance Issue,High,User experiences slow VPN performance during peak hours.
+61,External Hard Drive Not Detected,Low,User's computer does not detect the external hard drive connected to it.
+62,Printer Spooler Error,High,User encounters a printer spooler error when trying to print.
+63,Software Data Corruption,Medium,User's software data appears corrupted and needs recovery.
+64,Network Firewall Configuration,High,User needs help configuring the firewall settings on their network.
+65,Email Filter Setup,Low,User needs assistance setting up email filters for organizing emails.
+66,Keyboard Backlight Issue,Medium,User's keyboard backlight is not functioning properly.
+67,Printer Duplex Printing Issue,High,User's printer is not printing on both sides of the paper (duplex printing).
+68,Software License Transfer,Low,User needs assistance transferring their software license to a new computer.
+69,Network Printer Paper Tray Issue,High,User's network printer is not picking up paper from the correct tray.
+70,Email Signature Setup,Low,User needs help setting up an email signature in Outlook.
+71,Application Data Loss,Medium,User's application data is lost and needs to be recovered.
+72,VPN Connection Speed Issue,High,User experiences slow connection speed while using VPN.
+73,External Monitor Connection Cable Issue,Low,User's external monitor connection cable is loose and needs to be replaced.
+74,Printer Network Sharing Issue,High,User cannot share their printer over the office network.
+75,Software Feature Request,Low,User requests a new feature to be added to their software application.
+76,Network Performance Testing,High,User requests a performance test to diagnose network speed issues.
+77,Email Attachment Size Limit Issue,Low,User cannot send large attachments through email due to size limits.
+78,Keyboard Sticky Key Issue,Medium,User's keyboard keys are sticky and difficult to press.
+79,Printer Wireless Setup,High,User needs help setting up their wireless printer connection.
+80,Software License Expiry Notification,Low,User requests a notification for software license expiration.
+81,Network Printer Firmware Update,High,User needs assistance updating the firmware on their network printer.
+82,Email Account Password Change,Low,User needs help changing their email account password.
+83,Application UI Scaling Issue,Medium,User's application UI does not scale properly on high-resolution screens.
+84,VPN Server Configuration,High,User needs assistance configuring the company's VPN server.
+85,External Hard Drive File Transfer Issue,Low,User encounters errors while transferring files to/from external hard drive.
+86,Printer Queue Clearing,High,User needs help clearing the print queue on their printer.
+87,Software Data Backup,Low,User needs assistance backing up their important software data.
+88,Network Port Configuration,High,User needs help configuring network ports for a new device.
+89,Email Alias Setup,Low,User needs help setting up an email alias for their account.
+90,Printer Cartridge Alignment Issue,High,User's printer cartridges are not aligning properly.
+91,Software License Deactivation,Low,User needs assistance deactivating their software license on an old computer.
+92,Network Printer Wireless Signal Weakness,High,User's network printer signal is weak and causes printing issues.
+93,Email Folder Organization,Low,User needs assistance organizing their email folders and rules.
+94,Application Data Migration,Medium,User needs assistance migrating their application data to a new computer.
+95,VPN Client Configuration,High,User needs help configuring their VPN client settings.
+96,External Monitor Refresh Rate Issue,Low,User's external monitor has a refresh rate issue causing flickering.
+97,Network Printer Paper Jam Recovery,High,User's network printer has recovered from a paper jam and needs verification.
+98,Test,Low,tst
+99,Test,High,test
